@@ -1,9 +1,7 @@
 <html>
 <head>
-	<title></title>
+	<title>identity</title>
 </head>
-<body><span style="color:#DAA520;"><span style="font-family:comic sans ms,cursive;"><span style="font-size:11px;">本页面用于验证身份</span><br />
-<span style="font-size:24px;">信息：</span><br />
 <span style="font-size:16px;">qq:3053469452<br />
 永久qq名：/没人鸟你/<br />
 q群：文件群(群号</span></span></span><span style="font-size:16px;"><span style="color:#DAA520;">212648503</span><span style="font-family:comic sans ms,cursive;"><span style="color:#DAA520;">)<br />
